@@ -1,22 +1,15 @@
-
-Perfect 👍 Let’s prepare a **README.md** file for your project with the **GitHub repo link** and **Netlify deployment link** included.
-
-
----
-
-```markdown
-# 🛒 Evara – E-Commerce Website
+🛒 Evara – E-Commerce Website
 
 This is a fully responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript**.  
 The project replicates a modern online shopping experience with product listings, cart functionality, login/register pages, and product details.
 
-## 🌍 Live Demo
-🔗 **Netlify Deployment:** [https://buildables-tas.netlify.app/](https://buildables-tas.netlify.app/)  
-📂 **GitHub Repository:** [https://github.com/nidaaeman1122/Nida-Buildable-Task4.git](https://github.com/nidaaeman1122/Nida-Buildable-Task4.git)  
+🌍 Live Demo
+🔗 Netlify Deployment:[https://buildables-tas.netlify.app/](https://buildables-tas.netlify.app/)  
+📂 GitHub Repository: [https://github.com/nidaaeman1122/Nida-Buildable-Task4.git](https://github.com/nidaaeman1122/Nida-Buildable-Task4.git)  
 
 ---
 
-## 📌 Features
+📌 Features
 - Responsive **homepage with navbar, hero, and product sections**
 - **Product detail page** with size & color options
 - **Shopping cart & wishlist** functionality
@@ -34,32 +27,31 @@ The project replicates a modern online shopping experience with product listings
 - **Google Fonts** (Poppins)  
 - **Flaticon & SVG Icons**  
 
----
 
-## 📂 Project Structure
-```
+ 📂 Project Structure
+
 
 Evara-Ecommerce/
-│── index.html
-│── shop.html
-│── cart.html
-│── login-register.html
-│── details.html
-│── compare.html
-│── accounts.html
-│── assets/
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── main.js
-│   └── img/
-│       └── (product & UI images)
+index.html
+shop.html
+cart.html
+ login-register.html
+ details.html
+ compare.html
+ accounts.html
+ assets/
+css/
+ styles.css
+js
+main.js
+ img/
+ (product & UI images)
 
 ````
 
 ---
 
-## 🚀 How to Run Locally
+🚀 How to Run Locally
 1. Clone the repository:
    ```bash
    git clone https://github.com/nidaaeman1122/Nida-Buildable-Task4.git
@@ -79,6 +71,7 @@ Evara-Ecommerce/
 
 📧 Email:nidaeman0987@gmail.com
 🔗 GitHub: [https://github.com/nidaaeman1122](https://github.com/nidaaeman1122)
+
 
 
 
